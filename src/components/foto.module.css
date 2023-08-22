@@ -1,0 +1,10 @@
+.foto img {
+    width: 100%;
+    object-fit: cover;
+}
+.foto {
+    width: 1200px;
+    height:400px;
+    overflow: hidden;
+    margin: 0 auto;
+}

@@ -1,0 +1,21 @@
+.info{
+
+    background-color:#248149;
+    border-radius: 20px;
+    margin-top: 95px;
+    padding: 25px;
+    font-size: 20px;
+    width: 1000px;
+    height: 650px;
+    margin-left: 430px;
+    }
+    .info{
+        font-size: 50px;
+        font-family: 'Courier New', Courier, monospace;
+        color: white;
+    }
+    h1{
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 35px;
+        color: white;
+    }
